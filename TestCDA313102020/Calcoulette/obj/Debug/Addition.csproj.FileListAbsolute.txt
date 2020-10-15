@@ -1,0 +1,10 @@
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\bin\Debug\Calcoulette.exe.config
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\bin\Debug\Calcoulette.exe
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\bin\Debug\Calcoulette.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Addition.csprojAssemblyReference.cache
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Calcoulette.FormCalculette.resources
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Calcoulette.Properties.Resources.resources
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Addition.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Calcoulette.exe
+C:\Users\vmund\source\repos\TestCDA313102020\Calcoulette\obj\Debug\Calcoulette.pdb

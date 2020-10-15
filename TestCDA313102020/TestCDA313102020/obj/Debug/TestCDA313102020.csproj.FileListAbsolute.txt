@@ -1,0 +1,10 @@
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\bin\Debug\TestCDA313102020.exe.config
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\bin\Debug\TestCDA313102020.exe
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\bin\Debug\TestCDA313102020.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.csprojAssemblyReference.cache
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.Properties.Resources.resources
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.exe
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\TestCDA313102020\obj\Debug\TestCDA313102020.Form1.resources

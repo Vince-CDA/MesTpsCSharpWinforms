@@ -1,0 +1,11 @@
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\bin\Debug\TP2.exe.config
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\bin\Debug\TP2.exe
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\bin\Debug\TP2.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.FormFille.resources
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.FormMain.resources
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.exe
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\TP2\obj\Debug\TP2.csprojAssemblyReference.cache

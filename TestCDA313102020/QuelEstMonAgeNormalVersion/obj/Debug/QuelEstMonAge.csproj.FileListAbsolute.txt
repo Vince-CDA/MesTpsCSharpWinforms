@@ -1,0 +1,10 @@
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.exe.config
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.exe
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.pdb
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.csprojAssemblyReference.cache
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.FormQuelEstMonAge.resources
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.Properties.Resources.resources
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.exe
+C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.pdb
