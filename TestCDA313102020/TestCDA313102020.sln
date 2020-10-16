@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diviseur", "Diviseur\Divise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuelEstMonAgeOld", "QuelEstMonAge\QuelEstMonAgeOld.csproj", "{6986AA64-C6A0-4E85-AC13-0810CFBC07B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChercheLeCheminDeMonImage", "ChercheLeCheminDeMonImage\ChercheLeCheminDeMonImage.csproj", "{BC20622C-3B13-4AEB-A977-04B9D207EB14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6986AA64-C6A0-4E85-AC13-0810CFBC07B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6986AA64-C6A0-4E85-AC13-0810CFBC07B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6986AA64-C6A0-4E85-AC13-0810CFBC07B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC20622C-3B13-4AEB-A977-04B9D207EB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC20622C-3B13-4AEB-A977-04B9D207EB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC20622C-3B13-4AEB-A977-04B9D207EB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC20622C-3B13-4AEB-A977-04B9D207EB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

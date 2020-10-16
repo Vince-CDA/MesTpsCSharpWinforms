@@ -32,9 +32,9 @@
             this.lblNom = new System.Windows.Forms.Label();
             this.lblDateNaissance = new System.Windows.Forms.Label();
             this.txtNom = new System.Windows.Forms.TextBox();
-            this.btFermer = new System.Windows.Forms.Button();
-            this.btCalculer = new System.Windows.Forms.Button();
             this.dateAnniv = new System.Windows.Forms.DateTimePicker();
+            this.btCalculer = new System.Windows.Forms.Button();
+            this.btFermer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblNom
@@ -65,20 +65,21 @@
             this.txtNom.Size = new System.Drawing.Size(167, 26);
             this.txtNom.TabIndex = 2;
             this.txtNom.TextChanged += new System.EventHandler(this.txtNom_TextChanged);
+            this.txtNom.Enter += new System.EventHandler(this.txtNom_Enter);
+            this.txtNom.Leave += new System.EventHandler(this.txtNom_Leave);
             // 
-            // btFermer
+            // dateAnniv
             // 
-            this.btFermer.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btFermer.Image = ((System.Drawing.Image)(resources.GetObject("btFermer.Image")));
-            this.btFermer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btFermer.Location = new System.Drawing.Point(40, 101);
-            this.btFermer.Name = "btFermer";
-            this.btFermer.Size = new System.Drawing.Size(146, 74);
-            this.btFermer.TabIndex = 4;
-            this.btFermer.Text = "Fermer";
-            this.btFermer.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btFermer.UseVisualStyleBackColor = true;
-            this.btFermer.Click += new System.EventHandler(this.btFermer_Click);
+            this.dateAnniv.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateAnniv.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateAnniv.Location = new System.Drawing.Point(208, 55);
+            this.dateAnniv.MaxDate = new System.DateTime(2050, 12, 31, 0, 0, 0, 0);
+            this.dateAnniv.MinDate = new System.DateTime(1900, 1, 1, 0, 0, 0, 0);
+            this.dateAnniv.Name = "dateAnniv";
+            this.dateAnniv.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.dateAnniv.ShowUpDown = true;
+            this.dateAnniv.Size = new System.Drawing.Size(167, 24);
+            this.dateAnniv.TabIndex = 6;
             // 
             // btCalculer
             // 
@@ -90,17 +91,24 @@
             this.btCalculer.Name = "btCalculer";
             this.btCalculer.Size = new System.Drawing.Size(142, 74);
             this.btCalculer.TabIndex = 5;
-            this.btCalculer.Text = "Calculer";
+            this.btCalculer.Text = "&Calculer";
             this.btCalculer.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btCalculer.UseVisualStyleBackColor = true;
             this.btCalculer.Click += new System.EventHandler(this.btCalculer_Click);
             // 
-            // dateAnniv
+            // btFermer
             // 
-            this.dateAnniv.Location = new System.Drawing.Point(208, 55);
-            this.dateAnniv.Name = "dateAnniv";
-            this.dateAnniv.Size = new System.Drawing.Size(167, 20);
-            this.dateAnniv.TabIndex = 6;
+            this.btFermer.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btFermer.Image = ((System.Drawing.Image)(resources.GetObject("btFermer.Image")));
+            this.btFermer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btFermer.Location = new System.Drawing.Point(40, 101);
+            this.btFermer.Name = "btFermer";
+            this.btFermer.Size = new System.Drawing.Size(146, 74);
+            this.btFermer.TabIndex = 0;
+            this.btFermer.Text = "&Fermer";
+            this.btFermer.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btFermer.UseVisualStyleBackColor = true;
+            this.btFermer.Click += new System.EventHandler(this.btFermer_Click);
             // 
             // FormQuelEstMonAge
             // 
@@ -120,6 +128,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quel est mon âge ?";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormQuelEstMonAge_FormClosing);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FormQuelEstMonAge_FormClosed);
+            this.Load += new System.EventHandler(this.FormQuelEstMonAge_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

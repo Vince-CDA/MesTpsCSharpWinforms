@@ -8,3 +8,13 @@ C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonA
 C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAgeOld.csproj.CoreCompileInputs.cache
 C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.exe
 C:\Users\vmund\source\repos\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.pdb
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.exe
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.pdb
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAgeOld.csprojAssemblyReference.cache
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.FormQuelEstMonAge.resources
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.Properties.Resources.resources
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAgeOld.csproj.GenerateResource.cache
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAgeOld.csproj.CoreCompileInputs.cache
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.exe
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\obj\Debug\QuelEstMonAge.pdb
+C:\Users\vmund\Source\Repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\QuelEstMonAge\bin\Debug\QuelEstMonAge.exe.config
