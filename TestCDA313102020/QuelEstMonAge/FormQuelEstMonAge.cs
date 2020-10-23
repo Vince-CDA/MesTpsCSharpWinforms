@@ -108,7 +108,7 @@ namespace QuelEstMonAge
         private void txtNom_TextChanged(object sender, EventArgs e)
         {
             
-            if (String.IsNullOrEmpty(txtNom.Text))
+            if (String.IsNullOrEmpty(txtNom.Text) || String.Compare(txtNom.Text, NOMPARDEFAUT, true) == 0)
             {
                 btCalculer.Enabled = false;
             }

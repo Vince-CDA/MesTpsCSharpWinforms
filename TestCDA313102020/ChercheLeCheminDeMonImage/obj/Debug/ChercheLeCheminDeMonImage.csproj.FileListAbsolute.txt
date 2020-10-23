@@ -1,0 +1,10 @@
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\bin\Debug\ChercheLeCheminDeMonImage.exe.config
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\bin\Debug\ChercheLeCheminDeMonImage.exe
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\bin\Debug\ChercheLeCheminDeMonImage.pdb
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.csprojAssemblyReference.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.ChercheMonFichierImageForm.resources
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.Properties.Resources.resources
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.exe
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\ChercheLeCheminDeMonImage\obj\Debug\ChercheLeCheminDeMonImage.pdb

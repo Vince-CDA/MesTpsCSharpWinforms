@@ -1,0 +1,10 @@
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\bin\Debug\MaquetteTPFinal.exe.config
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\bin\Debug\MaquetteTPFinal.exe
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\bin\Debug\MaquetteTPFinal.pdb
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.csprojAssemblyReference.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.Form1.resources
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.Properties.Resources.resources
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.csproj.GenerateResource.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.exe
+C:\Users\vmund\source\repos\Vince-CDA\MesTpsCSharpWinforms\TestCDA313102020\MaquetteTPFinal\obj\Debug\MaquetteTPFinal.pdb
